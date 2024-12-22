@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Swift programming: force-unwrapping an optional value without proper nil checking.  Force-unwrapping can lead to unexpected crashes if the optional is nil. The solution shows how to safely handle optionals using optional binding or the nil-coalescing operator.
